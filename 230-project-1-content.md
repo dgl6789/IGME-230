@@ -1,22 +1,20 @@
 # *Amungus*
+===
 
-## High Concept
+### High Concept
 
 Consume the city and thwart the military's efforts to destroy you in this real-time strategy game.
----
 
-## Genre
+### Genre
 
 Amungus emphasizes quick thinking and proactive choices to provide a rewarding top-down real-time strategy experience.
 
----
-
-## Platform
+### Platform
 
 Amungus will be developed in Unity and deployed on this site in the HTML5 format. Following its completion for
 the purposes of this project, it will also be deployed on itch.io in a downloadable format for Windows, Mac, and Linux.
 
-## Story
+### Story
 
 You play as an infectious, gargantuan fungus that threatens the safety of a collection of cities built on an archipelago.
 Your goal on each island-level is to cover a target amount of the city within a time limit while avoiding missiles,
@@ -24,9 +22,9 @@ troops, and airstrikes. Over the course of the game, the layouts of the cities w
 and the resistance you encounter will become smarter and more resilient. Can you achieve your goal of consuming the entire
 chain of islands? Or will you be contained by the population?
 
-## Gameplay
+### Gameplay
 
-### Mechanics and Controls.
+###### *Mechanics and Controls.*
 
 The game uses the four directional keys as well as the Z key during play.
 
@@ -47,14 +45,14 @@ reduced to 0, a lose state is prompted and the level must be retried.
 Progression through the levels manifests with higher complexity of layouts, greater incidence of choke points and military resistance,
 and greater area of tiles required to clear each level.
 
-### Onboarding.
+###### *Onboarding.*
 
 In the vein of progression, the first levels of Amungus are tailored specifically in the interest of providing a non-hostile environment
 to facilitate the player's understanding of the game's basic mechanics before incorporating the time element or hostile entities. When a 
 new mechanic is introduced, such as the ability of the fungus to split itself, or the different capabilities of the resitant forces, a level
 will be present wherein that mechanic may be experimented with in isolation before being utilized in conjunction with any other mechanic.
 
-### Player learning.
+###### *Player learning.*
 
 Over the course of the game, players must learn to cope with changing circumstances and accrue skill in maneuvering the fungus to budget time
 as effectively as possible. They must learn to adaptively apply knowledge of individual mechanics and interactions simultaneously.
